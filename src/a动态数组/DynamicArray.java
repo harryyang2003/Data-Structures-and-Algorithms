@@ -1,4 +1,4 @@
-package a数组;
+package a动态数组;
 
 import java.util.Arrays;
 import java.util.Iterator;

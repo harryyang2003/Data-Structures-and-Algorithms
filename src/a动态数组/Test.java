@@ -1,4 +1,4 @@
-package a数组;
+package a动态数组;
 
 public class Test {
     public static void main(String[] args) {
